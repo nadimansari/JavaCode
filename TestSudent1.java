@@ -25,7 +25,7 @@ class TestStudent1{
 		s1.setDetail(5,"Raju");
 		s1.printDetail();
 		
-		System.out.println("===================================");
+		System.out.println("=====================*==============");
 		
 		// Creating object-2
 		Student s2=new Student();
